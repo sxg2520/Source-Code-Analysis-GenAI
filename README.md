@@ -49,7 +49,6 @@ open up localhost:
 - LangChain
 - Flask
 - OpenAI
-- GPT 3
-- ChoromaDB
-
+- GPT 3.5
+- ChromaDB
 
