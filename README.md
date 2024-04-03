@@ -6,16 +6,16 @@
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/sxg2520/Source-Code-Analysis-GenAI.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n llmapp python=3.8 -y
+conda create -n sca python=3.8 -y
 ```
 
 ```bash
-conda activate llmapp
+conda activate sca
 ```
 
 
@@ -36,12 +36,6 @@ OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # Finally run the following command
 python app.py
 ```
-
-Now,
-```bash
-open up localhost:
-```
-
 
 ### Techstack Used:
 
